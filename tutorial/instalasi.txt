@@ -1,0 +1,20 @@
+package di python yang berhubungan dengan sains komputasi
+
+alternatif dari :
+-matlab (berbayar)
+-octave
+-scilah
+-R studio
+
+numpy, matplotlib, sympy, scipy digunakan untuk sains komputasi
+
+cara install :
+
+pakai virtual env :
+python3 -m venv Env
+source Env/bin/activate
+
+pip install numpy
+pip install matplotlib
+
+
